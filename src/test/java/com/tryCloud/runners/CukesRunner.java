@@ -1,4 +1,4 @@
-package com.TryCloud.runners;
+package com.tryCloud.runners;
 
 
 import io.cucumber.junit.Cucumber;
@@ -14,7 +14,7 @@ import org.junit.runner.RunWith;
 
         },
         features = "src/test/resources/features",
-        glue = "com/TryCloud/step_definitions",
+        glue = "com/tryCloud/step_definitions",
         dryRun = false,
         tags = ""
 )

@@ -1,4 +1,4 @@
-package com.TryCloud.utilities;
+package com.tryCloud.utilities;
 
 import java.io.FileInputStream;
 import java.io.IOException;
